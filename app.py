@@ -8,7 +8,7 @@ st.set_page_config(page_title="Simulación Carbonatación", layout="centered")
 # --- TÍTULO PRINCIPAL ---
 st.title("SIMULACIÓN: CARBONATACIÓN DEL HORMIGÓN")
 st.markdown("""
-Modelo de difusión-reacción unidimensional simplificado para visualizar el avance
+Modelo de difusión-reacción bidimensional simplificado para visualizar el avance
 del frente de carbonatación y el riesgo de corrosión en las armaduras.
 """)
 
